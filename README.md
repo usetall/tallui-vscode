@@ -114,3 +114,6 @@ Do you have any suggestion? Use the following template to create a new entry in 
 - [Laravel Extension Pack](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-extension-pack) <sub><sup>onecentlin.laravel-extension-pack</sup></sub>
 - [PHP Productive Pack](https://marketplace.visualstudio.com/items?itemName=onecentlin.php-productive-pack) <sub><sup>onecentlin.php-productive-pack</sup></sub>
 - [TALL Stack](https://marketplace.visualstudio.com/items?itemName=entexa.tall-stack) <sub><sup>entexa.tall-stack</sup></sub>
+
+## PhpStorm?
+Read here [TallUI with PhpStorm](PHPSTORM.md)
