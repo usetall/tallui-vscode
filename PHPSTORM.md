@@ -1,3 +1,7 @@
+<p align="center">
+        <img src="https://raw.githubusercontent.com/usetall/tallui-art/main/logo/logo-gh.png" />
+</p>
+
 # TallUI with PhpStorm
 
 What if you use PhpStorm? There is no ready-made package with all extensions, but as PhpStorm covers the most PHP-things without the need of extensions, the list is short:
