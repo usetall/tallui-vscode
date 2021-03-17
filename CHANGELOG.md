@@ -1,5 +1,10 @@
 # Changelog
 
+## Version 1.0.5 (coming soon)
+
+- Renamed from adrolli/tallui-vscode to usetall/tallui-vscode
+- Some more (useful) changes coming
+
 ## Version 1.0.4
 
 - Improved docs
