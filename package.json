@@ -1,0 +1,72 @@
+{
+  "name": "tallui-laravel-livewire-tailwind",
+  "displayName": "TallUI VScode Extensions",
+  "description": "VS Code Extensions for TallUI and the Tall-Stack: PHP, Laravel, Livewire, Tailwind and AlpineJS",
+  "version": "1.0.4",
+  "publisher": "adrolli",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Other",
+    "Extension Packs"
+  ],
+  "galleryBanner": {
+    "color": "#2A7490",
+    "theme": "dark"
+  },
+  "icon": "logo.png",
+  "homepage": "https://github.com/adrolli/tallui-vscode",
+  "bugs": {
+    "url": "https://github.com/adrolli/tallui-vscode/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrolli/tallui-vscode"
+  },
+  "extensionPack": [
+    "bmewburn.vscode-intelephense-client",
+    "felixfbecker.php-debug",
+    "kokororin.vscode-phpfmt",
+    "linyang95.php-symbols",
+    "MehediDracula.php-namespace-resolver",
+    "phproberto.vscode-php-getters-setters",
+    "MehediDracula.php-constructor",
+    "neilbrayfield.php-docblocker",
+    "sevavietl.php-files",
+    "ValeryanM.vscode-phpsab",
+    "getpsalm.psalm-vscode-plugin",
+    "ikappas.composer",
+    "amiralizadeh9480.laravel-extra-intellisense",
+    "ryannaddy.laravel-artisan",
+    "onecentlin.laravel-blade",
+    "onecentlin.laravel5-snippets",
+    "shufo.vscode-blade-formatter",
+    "codingyu.laravel-goto-view",
+    "stef-k.laravel-goto-controller",
+    "ahinkle.laravel-model-snippets",
+    "austenc.laravel-docs",
+    "adrianwilczynski.alpine-js-intellisense",
+    "cierra.livewire-vscode",
+    "austenc.livewire-docs",
+    "bradlc.vscode-tailwindcss",
+    "bourhaouta.tailwindshades",
+    "austenc.tailwind-docs",
+    "heybourn.headwind",
+    "patbenatar.advanced-new-file",
+    "mikestead.dotenv",
+    "shd101wyy.markdown-preview-enhanced",
+    "eamodio.gitlens",
+    "wk-j.save-and-run",
+    "auchenberg.vscode-browser-preview",
+    "kamikillerto.vscode-colorize",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode"
+  ],
+  "dependencies": {
+    "i": "^0.3.6",
+    "npm": "^7.6.3"
+  }
+}
